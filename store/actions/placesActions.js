@@ -1,7 +1,7 @@
 import * as Filesystem from "expo-file-system";
 import axios from "axios";
 import * as types from "./actionTypes";
-import ENV from "../../env";
+import ENV from "../../example-env";
 
 import { insertPlace, fetchPlaces } from "../../helpers/db";
 

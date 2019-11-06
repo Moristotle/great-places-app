@@ -8,6 +8,6 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 *env
-*yarn
+yarn-error*
 web-build/
 web-report/

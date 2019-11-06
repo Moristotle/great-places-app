@@ -1,6 +1,6 @@
 import React from "react";
 import { View, Image, StyleSheet, TouchableOpacity } from "react-native";
-import ENV from "../env";
+import ENV from "../example-env";
 
 const apiKey = ENV().googleApiKey;
 
